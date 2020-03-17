@@ -23,6 +23,8 @@ html{
 
 .boton /*El estilo es el mismo para todos los botones*/
 {
+  width:621px; 
+  height:230px;
   background : #1B2F33;
   background : rgba(27, 47, 51, 1);
   border-radius : 33px;
