@@ -104,6 +104,21 @@ html{
   box-shadow : -43px 40px 71px rgba(0, 0, 0, 0.6);
   filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=-43, OffY=40, Color='#000000') ;
 }
+
+.estiloletrasamarillas
+{
+  font-family : Funhouse;
+  font-size : 120px;
+  color : #FFFD82;
+  color : rgb(255, 253, 130);
+}
+.estiloletrasazules
+{
+  font-family : Funhouse;
+  font-size : 120px;
+  color : #75DDDD;
+  color : rgb(117, 221, 221);
+}
 /* Esto seria el fondo y demas para los ticks de aciertos, no se si te vale o metermos un icono o si quieres que te pase una imagen de uno de ellos y ya
 
 .ticka 
